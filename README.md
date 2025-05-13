@@ -8,18 +8,10 @@
 5) git checkout -b feature_x
 6) git push origin feature_x
 
-## Cambios agregados por alumnos
-
-HOLAAhola como estas
-Buenas ☻
-Hola somos Nico, Eve y Mariano
-Wachin.!
+Buenas profe soy german
 + Nuevo contenido
 + nuevo contebido
-Hola mundo!
 
-Hola soy Paula
-+Agustina Prieto
  
 ## Trees
 ![branches](trees.png)
